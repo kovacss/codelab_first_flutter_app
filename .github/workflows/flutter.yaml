@@ -1,4 +1,5 @@
 name: Build & Test
+on: [push]
 jobs:
  build:
    runs-on: macos-latest
