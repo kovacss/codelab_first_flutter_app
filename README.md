@@ -1,6 +1,11 @@
 # Flutter App
 
-Flutter project based on https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2
+[![Build & Test](https://github.com/kovacss/codelab_first_flutter_app/actions/workflows/flutter.yaml/badge.svg)](https://github.com/kovacss/codelab_first_flutter_app/actions/workflows/flutter.yaml)
+
+
+Flutter project based on the [First Flutter App Codelabs](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1)
+
+On top of the walkthough done through the codelabs, this project also adds some example of Widget Testing as well as CI Steps powered by [Github Actions](https://github.com/kovacss/codelab_first_flutter_app/actions/workflows/flutter.yaml)
 
 ## Getting Started
 
